@@ -1,0 +1,26 @@
+﻿
+body button {
+    margin:auto;
+    text-align: center;
+}
+ 
+table{
+    width:100%;
+    border:5px;
+}
+
+
+header{
+    background-color:#cea5ac;
+}
+ header img {
+  width:100%;
+
+ }
+ #my_img{
+    
+     height:inherit;
+ }
+ .my_info {
+     float:right;
+ }
